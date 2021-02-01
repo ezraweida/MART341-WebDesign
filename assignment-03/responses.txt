@@ -1,1 +1,4 @@
-
+I enjoy visiting the Wallstreet Journal (wsj.com), Amazon (amazon.com), and Barstool (barstoolsports.com)
+The relationship between an IP Address and a DNS is that a DNS is essentially the text version of an IP Address, while an IP Address is just the address used to identify the computer on a network.
+A cookie is a small text file shared with the web server that contains any information you have volunteered along with information about your visit on the web page
+The three essential parts of a URL are protocol, domain name, and the path.
