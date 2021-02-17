@@ -1,0 +1,4 @@
+I went back to Twitter in the year 2009 and could hardly recognize it. It looked really chunky and difficult to navigate. It has changed in so many ways it is hard to say them all, but most strikingly is the old logo and different layout.
+These last few topics have been really interesting and challenging. I am proud of how I navigated this assignment and hopefully did it right. I would say I had the most difficult time just navigating the software and applying what I learned to the assigment. I still think I may slightly misunderstand less of the content and more of just connecting all the pieces from one software platform to the next.
+
+![screenshot](ScreenShot05.png)
