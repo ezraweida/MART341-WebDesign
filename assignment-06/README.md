@@ -1,0 +1,3 @@
+A page can have only  few <head> and <body> posts a page just because the page will run out. They both serve unique purposes in obviously breaking up a heading and the body of text but they can also play roles in search engine algorithims.
+The difference between structural and semantic markup is that semantic markup is used to reinforce the meaning of information in a document. Structural markup embeds information about the structure of a document.
+This week went really well for me. I didn't run into any hiccups besides actually trying to find the answers for the README 1. therwise I beleive this is the best I have done on an assignment thus far. I am getting more comfortable with the work every week and weirdly find it fun.
