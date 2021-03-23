@@ -1,0 +1,3 @@
+There are many differences betwen the selector types. You may use ID when you're clearly trying to ID something. You may use iniversal selector when you are matching the elements of any type. You use the selector types to cleary choose what you want.
+The four colors I chose were black, aqua, and pink. To me when I think of the 80s I think of those bright, loud colors. I chose black, aqua, pink, and lawn green.
+I had a hard time this week getting the photos to become jpgs and I do not think I properly did it. 
