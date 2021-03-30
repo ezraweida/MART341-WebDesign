@@ -1,0 +1,3 @@
+The difference is that a system font is a font that is already installed on your comuter. A web font is a font that is special for use on websites. A web-safe font is a font that is included with most operating systems.
+The importance of having a fallback font or a font stack is exactly what is seems. If any font fails to load its a fall back system. 
+I had a hard time including a file of the actual font and installing it into visual studio. I honestly am not sure I even did it right.
