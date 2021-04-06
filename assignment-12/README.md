@@ -1,0 +1,2 @@
+The difference between padding, margin, and borders is that argin is the out space of an element. Padding on the otherhand is the inner space of an element. The border is the space between the padding and the margin.
+I actually did not have a super difficult time this week, and it is probably the most comfortable I have felt in the software. My biggest problem while doing this assignment is that Gonzaga is getting their ass kicked, lol!
