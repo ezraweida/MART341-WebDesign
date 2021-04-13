@@ -1,0 +1,3 @@
+My client was Jeff Probst and Survivor. I met their needs by advertising the show and urging people to apply to be catsed for the next season. 
+It is absolutely essential to think of a mobile first design because the majority of all internet searches are now done on your cell phone. If a website isn't mobile freindly you are going to lose a large chunk of traffic taht may visit it. 
+I had a hard time deciding what fonts would look good in this setting so I chose the same fonts as the example. I also am not sure I included the images correctly. 
