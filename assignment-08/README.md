@@ -1,0 +1,3 @@
+A div is a block-level element and a span is an inline element. The div should be used to wrap sections of a document, while use spans to wrap small portions of text, images, and so on. 
+An advantage of using YouTube is that it is easily accessbile and a known commodity. An advantage of vimeo is that there are no ads or suggested videos but that could also be argued to be a disadvantage b/c it is not as profitable.
+I had challenges finding information on classes but no challenges at all in picking the song. 
