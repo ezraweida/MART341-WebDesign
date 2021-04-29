@@ -1,0 +1,3 @@
+I learned literally everythig I now know about web development from this class. I came in with zero understanding or background in this subject and I really enjoyed learning about it. 
+I had no clue about any of this stuff so similar to web development, web design was all brand new to me and I am really glad to have some understanding of it now.
+I struggled a little bit with this class in understanding why I was doing what I was doing and then about week 4 I finally could start to understand the concepts and the why behind it. I really enjoyed this class and look forward to taking more like it in the future.
